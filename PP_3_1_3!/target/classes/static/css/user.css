@@ -1,7 +1,0 @@
-main {
-    height: calc(50vh - 50px);
-    overflow: auto;
-}
-.logout-button:hover {
-    color: red !important;
-}
